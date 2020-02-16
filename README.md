@@ -13,3 +13,4 @@ To Do:
 -Support file moving (move files instead of copy)
 -Support custom managers (user defined extensions)
 -Minimize to tray when minimizing the main window
+-Add an installer
