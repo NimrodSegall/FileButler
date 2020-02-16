@@ -7,7 +7,7 @@ Currently Supports:
 -Multiple search paths
 
 To Do:
--Support more options customization
+-Support more options customizations
 -Make UI look nicer
 -Get a butler icon
 -Support file moving (move files instead of copy)
